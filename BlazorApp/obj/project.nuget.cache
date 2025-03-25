@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DoBnRHd18V8=",
+  "dgSpecHash": "3a0yxtpWJaI=",
   "success": true,
-  "projectFilePath": "/workspaces/codespaces-blank/BlazorApp/BlazorApp.csproj",
+  "projectFilePath": "/workspaces/BlazorApp/BlazorApp/BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

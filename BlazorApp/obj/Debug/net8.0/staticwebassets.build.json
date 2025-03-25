@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oL4inXIt+GN0NNjA0FfVfeSFbs7+tLPYYMwxpsBTcAo=",
+  "Hash": "2WSqqTxKIhCFewYLjnLZ0c52H+LI+bXkwakkpcRsyIQ=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorApp/wwwroot",
       "Source": "BlazorApp",
-      "ContentRoot": "/workspaces/codespaces-blank/BlazorApp/wwwroot/",
+      "ContentRoot": "/workspaces/BlazorApp/BlazorApp/wwwroot/",
       "BasePath": "_content/BlazorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/workspaces/codespaces-blank/BlazorApp/obj/Debug/net8.0/scopedcss/bundle/BlazorApp.styles.css",
+      "Identity": "/workspaces/BlazorApp/BlazorApp/obj/Debug/net8.0/scopedcss/bundle/BlazorApp.styles.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "/workspaces/codespaces-blank/BlazorApp/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/workspaces/BlazorApp/BlazorApp/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/workspaces/codespaces-blank/BlazorApp/obj/Debug/net8.0/scopedcss/bundle/BlazorApp.styles.css"
+      "OriginalItemSpec": "/workspaces/BlazorApp/BlazorApp/obj/Debug/net8.0/scopedcss/bundle/BlazorApp.styles.css"
     },
     {
-      "Identity": "/workspaces/codespaces-blank/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
+      "Identity": "/workspaces/BlazorApp/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "/workspaces/codespaces-blank/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/workspaces/BlazorApp/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/workspaces/codespaces-blank/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "/workspaces/BlazorApp/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css"
     },
     {
-      "Identity": "/workspaces/codespaces-blank/BlazorApp/wwwroot/app.css",
+      "Identity": "/workspaces/BlazorApp/BlazorApp/wwwroot/app.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/codespaces-blank/BlazorApp/wwwroot/",
+      "ContentRoot": "/workspaces/BlazorApp/BlazorApp/wwwroot/",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "/workspaces/codespaces-blank/BlazorApp/wwwroot/bootstrap/bootstrap.min.css",
+      "Identity": "/workspaces/BlazorApp/BlazorApp/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/codespaces-blank/BlazorApp/wwwroot/",
+      "ContentRoot": "/workspaces/BlazorApp/BlazorApp/wwwroot/",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/workspaces/codespaces-blank/BlazorApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Identity": "/workspaces/BlazorApp/BlazorApp/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/codespaces-blank/BlazorApp/wwwroot/",
+      "ContentRoot": "/workspaces/BlazorApp/BlazorApp/wwwroot/",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/workspaces/codespaces-blank/BlazorApp/wwwroot/favicon.png",
+      "Identity": "/workspaces/BlazorApp/BlazorApp/wwwroot/favicon.ico",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/codespaces-blank/BlazorApp/wwwroot/",
+      "ContentRoot": "/workspaces/BlazorApp/BlazorApp/wwwroot/",
       "BasePath": "_content/BlazorApp",
-      "RelativePath": "favicon.png",
+      "RelativePath": "favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.png"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     }
   ]
 }
